@@ -21,6 +21,17 @@ header{
     z-index: 100;
 }
 
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    width: 40px; /* Adjust the width as needed */
+    height: 40px;
+    margin-right: 10px;
+}
+
 .logo{
     font-size: 25px;
     color: white;
